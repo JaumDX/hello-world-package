@@ -1,3 +1,3 @@
-struct HelloWorldPackage {
+struct HelloWorldStruct {
     var text = "Hello, World!"
 }
